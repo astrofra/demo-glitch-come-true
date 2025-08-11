@@ -1,5 +1,5 @@
 {
-	"features": ["OptionalBaseColorOpacityMap", "OptionalOcclusionRoughnessMetalnessMap", "OptionalNormalMap", "OptionalSelfMap", "OptionalAlphaCut", "OptionalAmbientMap", "OptionalReflectionMap"],
+	"features": ["OptionalBaseColorOpacityMap", "OptionalOcclusionRoughnessMetalnessMap", "OptionalNormalMap", "OptionalSelfMap", "OptionalAmbientMap", "OptionalReflectionMap"],
 	"uniforms": [
 		{"name": "uORMr", "type": "Vec4", "value": [0.0, 1.0, 1.0, 0.0]},
 		{"name": "uORMg", "type": "Vec4", "value": [0.0, 1.0, 1.0, 0.0]},
